@@ -13,8 +13,10 @@
 
 <h3 align="left">Interaja comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lucas-tavares-79623b202/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Lucas tavares" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-tavares-79623b202/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Lucas tavares" height="30" width="40" color="#ffff"/></a>
 <a href="https://instagram.com/lucastavr_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lucastavr_" height="30" width="40" /></a>
+<a href="https://discord.gg/Lucasotaro#4249" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Lucasotaro#4249" height="30" width="40" /></a>
+</p>
 </p> <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasotaro&show_icons=true&layout=compact&theme=dark" alt="lucasotaro" /></p>
