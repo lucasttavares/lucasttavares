@@ -19,9 +19,6 @@
 </p>
 </p> <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasotaro&show_icons=true&layout=compact&theme=dark" alt="lucasotaro" /></p>
-<br><br><br><br><br>
-
 <hr>
 
 - Contate-me **zlucas.np@gmail.com**
