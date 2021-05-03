@@ -1,7 +1,7 @@
 <h1 align="center">Oi devs, meu nome é Lucas Tavares 😃</h1>
 <h3 align="center">Pelo curso de Analise e Desenvolvimento de Sistemas, estou na trajetória para me tornar um desenvolvedor de sucesso.</h3>
 
-- Parte de projeto de empresa fictícia [Mandacaru](https://github.com/Lucasotaro/Mandacaru_dev)
+- Parte do projeto de empresa fictícia [Mandacaru](https://github.com/Lucasotaro/Mandacaru_dev)
 
 - Contribuí na construção do site de entreterimento [Tediei](https://github.com/Lucasotaro/Tediei)
 
