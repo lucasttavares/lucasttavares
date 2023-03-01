@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hy, my name is Lucas Tavares :man::wave:</h1>
+<h1 align="center"> Hy, my name is Lucas Tavares :wave:</h1>
 
 <img src="https://blush.design/api/download?shareUri=ygEzNTDZLGM6bSmG&c=Bottom_0%7E393f82_Hair_0%7E4a312c_Skin_0%7Ed4a181_Top_0%7Effa434&w=800&h=800&fm=png" min-width="400px" max-width="450px" width="450px" align="right" >
 
