@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hy, my name is Lucas :wave:</h1>
 
-<img src="https://blush.design/api/download?shareUri=ygEzNTDZLGM6bSmG&c=Bottom_0%7E393f82_Hair_0%7E4a312c_Skin_0%7Ed4a181_Top_0%7Effa434&w=800&h=800&fm=png" min-width="400px" max-width="450px" width="450px" align="right" >
+<img src="https://stories.freepiklabs.com/api/vectors/work-time/pana/render?color=C53F3FFF&background=simple&hide=" min-width="400px" max-width="450px" width="450px" align="right" >
 
 <p align="left">
   Estou ingresso no curso de Análise e Desenvolvimento de Sistemas no IFPB Campus Cajazeiras, em busca da minha formação e melhoria acadêmica 🎓 <br>
