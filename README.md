@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hy, my name is Lucas :wave:</h1>
 
-<img src="https://stories.freepiklabs.com/api/vectors/work-time/pana/render?color=C53F3FFF&background=simple&hide=" min-width="400px" max-width="450px" width="450px" align="right" >
+<img src="https://stories.freepiklabs.com/api/vectors/work-time/pana/render?color=B0BEC5FF&background=simple&hide=" min-width="400px" max-width="450px" width="450px" align="right" >
 
 <p align="left">
   Estou ingresso no curso de Análise e Desenvolvimento de Sistemas no IFPB Campus Cajazeiras, em busca da minha formação e melhoria acadêmica 🎓 <br>
