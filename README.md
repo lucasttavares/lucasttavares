@@ -5,7 +5,7 @@
 <img src="https://stories.freepiklabs.com/api/vectors/work-time/pana/render?color=B0BEC5FF&background=simple&hide=" min-width="400px" max-width="450px" width="450px" align="right" >
 
 <p align="left">
-  Estou ingresso no curso de Análise e Desenvolvimento de Sistemas no IFPB Campus Cajazeiras, em busca da minha formação e melhoria acadêmica 🎓 <br>
+  Sou graduado no curso de Análise e Desenvolvimento de Sistemas e estou em busca de consturiur meu futuro e aprimorar minhas capacidades 🎓 <br>
  Minha relaçao com a tecnologia vem crescendo significativamente e acompanhando meu desenvolvimento, tento lidar e aprender com meus erros, exaltar meus acertos e estou nesta jornada para me tornar um programador experiente 💻📘
 </p>
 
